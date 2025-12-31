@@ -1,0 +1,23 @@
+Warning: There is 1 input port missing set_input_delay.
+  rst
+max_delay/setup group clk_sys
+
+                                     Required  Actual
+Endpoint                               Delay   Delay   Slack
+------------------------------------------------------------
+out_7_ (output)                         7.90    5.14    2.76 (MET)
+
+max_delay/setup group clk_sys
+
+                                     Required  Actual
+Endpoint                               Delay   Delay   Slack
+------------------------------------------------------------
+out_7_ (output)                         7.90    5.14    2.76 (MET)
+
+max_delay/setup group clk_sys
+
+                                     Required  Actual
+Endpoint                               Delay   Delay   Slack
+------------------------------------------------------------
+out_7_ (output)                         7.90    5.14    2.76 (MET)
+

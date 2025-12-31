@@ -1,0 +1,57 @@
+{
+   "creator": "Yosys 0.55 (git sha1 60f126cd0, g++ 13.3.0-6ubuntu2~24.04 -fPIC -O3)",
+   "invocation": "stat -json -tech cmos ",
+   "modules": {
+      "\\fir_chip": {
+         "num_wires":         52,
+         "num_wire_bits":     204,
+         "num_pub_wires":     13,
+         "num_pub_wire_bits": 75,
+         "num_ports":         4,
+         "num_port_bits":     38,
+         "num_memories":      0,
+         "num_memory_bits":   0,
+         "num_processes":     0,
+         "num_cells":         158,
+         "num_cells_by_type": {
+            "$_AND_": 46,
+            "$_DFF_PP0_": 20,
+            "$_OR_": 12,
+            "$_XOR_": 34,
+            "sg13g2_IOPadIOVdd": 2,
+            "sg13g2_IOPadIOVss": 2,
+            "sg13g2_IOPadIn": 6,
+            "sg13g2_IOPadOut16mA": 32,
+            "sg13g2_IOPadVdd": 2,
+            "sg13g2_IOPadVss": 2
+         },
+         "estimated_num_transistors": "756+"
+      }
+   },
+      "design": {
+         "num_wires":         52,
+         "num_wire_bits":     204,
+         "num_pub_wires":     13,
+         "num_pub_wire_bits": 75,
+         "num_ports":         4,
+         "num_port_bits":     38,
+         "num_memories":      0,
+         "num_memory_bits":   0,
+         "num_processes":     0,
+         "num_cells":         158,
+         "num_cells_by_type": {
+            "$_AND_": 46,
+            "$_DFF_PP0_": 20,
+            "$_OR_": 12,
+            "$_XOR_": 34,
+            "sg13g2_IOPadIOVdd": 2,
+            "sg13g2_IOPadIOVss": 2,
+            "sg13g2_IOPadIn": 6,
+            "sg13g2_IOPadOut16mA": 32,
+            "sg13g2_IOPadVdd": 2,
+            "sg13g2_IOPadVss": 2
+         },
+         "estimated_num_transistors": "756+"
+      }
+}
+

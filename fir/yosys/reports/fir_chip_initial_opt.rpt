@@ -1,0 +1,24 @@
+
+26. Printing statistics.
+
+=== fir_chip ===
+
+   Number of wires:                 61
+   Number of wire bits:            812
+   Number of public wires:          58
+   Number of public wire bits:     716
+   Number of ports:                  4
+   Number of port bits:             38
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:                 55
+     $add                            4
+     $aldff                          5
+     sg13g2_IOPadIOVdd               2
+     sg13g2_IOPadIOVss               2
+     sg13g2_IOPadIn                  6
+     sg13g2_IOPadOut16mA            32
+     sg13g2_IOPadVdd                 2
+     sg13g2_IOPadVss                 2
+
