@@ -1,0 +1,24 @@
+Warning: There are 2 input ports missing set_input_delay.
+  rst_n
+  scan_rst_n
+max_delay/setup group clk_sys
+
+                                     Required  Actual
+Endpoint                               Delay   Delay   Slack
+------------------------------------------------------------
+instr_addr_4 (output)                  27.90   21.56    6.34 (MET)
+
+max_delay/setup group clk_sys
+
+                                     Required  Actual
+Endpoint                               Delay   Delay   Slack
+------------------------------------------------------------
+instr_addr_4 (output)                  27.90   21.56    6.34 (MET)
+
+max_delay/setup group clk_sys
+
+                                     Required  Actual
+Endpoint                               Delay   Delay   Slack
+------------------------------------------------------------
+instr_addr_4 (output)                  27.90   21.56    6.34 (MET)
+

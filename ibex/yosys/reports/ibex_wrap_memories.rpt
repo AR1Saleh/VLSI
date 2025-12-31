@@ -1,0 +1,45 @@
+
+35. Printing statistics.
+
+=== ibex_wrap ===
+
+   Number of wires:               1768
+   Number of wire bits:          22114
+   Number of public wires:        1508
+   Number of public wire bits:   21551
+   Number of ports:                 48
+   Number of port bits:             48
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:                568
+     $add                            3
+     $adff                          14
+     $adffe                         28
+     $and                           95
+     $bmux                           2
+     $dffe                          14
+     $dlatch                         1
+     $eq                            65
+     $logic_and                      6
+     $logic_not                     14
+     $logic_or                       9
+     $mux                           75
+     $ne                            15
+     $not                           42
+     $or                            46
+     $pmux                          32
+     $reduce_and                     8
+     $reduce_bool                    6
+     $reduce_or                     23
+     $sdffce                         2
+     $sshr                           1
+     $sub                            1
+     $xor                            2
+     sg13g2_IOPadIOVdd               4
+     sg13g2_IOPadIOVss               4
+     sg13g2_IOPadIn                 26
+     sg13g2_IOPadOut4mA             22
+     sg13g2_IOPadVdd                 4
+     sg13g2_IOPadVss                 4
+
